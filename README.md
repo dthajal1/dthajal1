@@ -1,27 +1,21 @@
-## Hi there 👋
+## Hey, this is Diraj 👋
 
-I'm a backend engineer passionate about coding, soccer, and continuous learning.
+I'm a backend engineer passionate about coding, building, continuously learning and soccer!
 
 - 🎓 UC Berkeley EECS graduate
 - 🌐 Based in San Francisco, CA
 - 💼 Currently SWE Fellow at [HeadstarterAI](https://www.linkedin.com/company/headstarterai/)
+- 🔗 More on me [dthajal1.github.io](https://dthajal1.github.io/)
+- 📫 Can reach me through [linkedin](https://www.linkedin.com/in/diraj-thajali/) or via email: thajalidiraj(at)gmail(dot)com
 
 
-
-## 🚀 Skills and Technologies
+## 🚀 Technical Skills
 
 - **Languages:** JavaScript, Python, TypeScript, 
 - **Frontend:** React, Redux, Material UI, TailwindCSS
 - **Backend:** Python Django, Next.js, Node.js, Express.js
 - **Database:** MySQL, MongoDB, PostgreSQL
 - **DevOps:** Docker, AWS, GitHub Actions
-
-## 📫 Get in Touch
-
-- **LinkedIn:** https://www.linkedin.com/in/diraj-thajali/
-- **Email:** thajalidiraj(at)gmail.com
-
-Thanks for visiting! Explore my repositories and let's connect!
 
 ---
 
