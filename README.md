@@ -8,15 +8,6 @@ I'm a backend engineer passionate about coding, building, continuously learning 
 - 🔗 More on me [dthajal1.github.io](https://dthajal1.github.io/)
 - 📫 Can reach me through [linkedin](https://www.linkedin.com/in/diraj-thajali/) or via email: thajalidiraj(at)gmail(dot)com
 
-
-## 🚀 Technical Skills
-
-- **Languages:** JavaScript, Python, TypeScript, 
-- **Frontend:** React, Redux, Material UI, TailwindCSS
-- **Backend:** Python Django, Next.js, Node.js, Express.js
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **DevOps:** Docker, AWS, GitHub Actions
-
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dthajal1&show_icons=true&theme=graywhite)
