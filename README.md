@@ -1,11 +1,11 @@
 ## Hey, this is Diraj 👋
 
-I'm a backend engineer passionate about coding, building, continuously learning and soccer!
+I'm a fullstack engineer passionate about coding, building, continuously learning and soccer!
 
 - 🎓 UC Berkeley EECS graduate
 - 🌐 Based in San Francisco, CA
 - 🔗 More on me [dthajal1.github.io](https://dthajal1.github.io/)
-- 📫 Can reach me through [linkedin](https://www.linkedin.com/in/diraj-thajali/) or via email: thajalidiraj(at)gmail(dot)com
+- 📫 Can reach me through [linkedin](https://www.linkedin.com/in/diraj-thajali/) or via email at thajalidiraj@gmail.com
 
 
 <!--
